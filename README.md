@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Alex</h1>
-<h3 align="center">👨‍💻 A computer science student and backend developer 👨‍💻</h3>
+<!--<h3 align="center">👨‍💻 A computer science student and backend developer 👨‍💻</h3>-->
 
 - 🔭 I’m currently working on [AmamentaCoach](https://github.com/amamentacoach/amamentacoach) and [Good Heart](https://github.com/GoodHeart-UEL/GoodHeart)
 
